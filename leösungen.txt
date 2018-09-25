@@ -1,0 +1,2 @@
+Freier Fall: v = g * t
+
